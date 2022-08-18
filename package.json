@@ -1,6 +1,9 @@
 {
   "name": "angular-14-crud-example",
   "version": "0.0.0",
+  "engines": {
+    "node": ">=12.0.0 <15.0.0"
+  },
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
